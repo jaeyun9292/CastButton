@@ -1,0 +1,2 @@
+rootProject.name = "CastButton"
+include ':app'
